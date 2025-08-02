@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div>
-      <h1>VitaClin</h1>
+      <h1>OdontoCare</h1>
       <p>{msg}</p>
     </div>
   )
